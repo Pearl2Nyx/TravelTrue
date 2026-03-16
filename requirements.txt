@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+playwright
+google-generativeai
+websockets
+pydantic
+python-dotenv
+hypothesis
+pytest
+pytest-asyncio
